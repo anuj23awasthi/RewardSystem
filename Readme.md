@@ -181,16 +181,16 @@ Complete project documentation including architecture, API endpoints, and implem
 ![Login Screen](assets/Login.png)
 
 ### 📝 Signup Screen
-![Signup Screen](assets/Signup.png)
+![Signup Screen](assets/SignUp.png)
 
 ### 🏠 Dashboard
 ![Dashboard](assets/Dashboard.png)
 
 ### 🏆 Leaderboard
-![Leaderboard](assets/Leaderboard.png)
+![Leaderboard](assets/LeaderBoard.png)
 
 ### 🎁 Redeem Voucher
-![Redeem Voucher](assets/Redeem-Vouncher.png)
+![Redeem Voucher](assets/Reedem-Vouncher.png)
 
 ### 🧠 Daily Challenge
 ![Daily Challenge](assets/Challenge.png)
